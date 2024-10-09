@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/quranbuilt/static/css/main.30544f60.css",
+    "main.js": "/quranbuilt/static/js/main.ab9edd20.js",
+    "static/media/mosque-6231915_1280.jpg": "/quranbuilt/static/media/mosque-6231915_1280.7324e7b390fdf45e6806.jpg",
+    "static/media/islam-8519137_1280.webp": "/quranbuilt/static/media/islam-8519137_1280.4de3da0daf68245ae55e.webp",
+    "static/media/mosque3.png": "/quranbuilt/static/media/mosque3.ca000dfabbb6076529f8.png",
+    "static/media/quran111.jpg": "/quranbuilt/static/media/quran111.8cfc4022147c22eba677.jpg",
+    "static/media/seven.png": "/quranbuilt/static/media/seven.950f91376962757a7806.png",
+    "static/media/quran1.jpg": "/quranbuilt/static/media/quran1.7a96e9af1fa8a47bac69.jpg",
+    "static/media/read1.jpg": "/quranbuilt/static/media/read1.7a96e9af1fa8a47bac69.jpg",
+    "static/media/read9.jpg": "/quranbuilt/static/media/read9.6904b49b7caf033f2552.jpg",
+    "static/media/interactive.png": "/quranbuilt/static/media/interactive.1d9f9e6d4978980ca94d.png",
+    "static/media/read7.jpg": "/quranbuilt/static/media/read7.dafd6868c9d09cd13be3.jpg",
+    "static/media/new5.jpg": "/quranbuilt/static/media/new5.a59504f55e658de4cbff.jpg",
+    "static/media/six (1).png": "/quranbuilt/static/media/six (1).25e2e8a8020a6ec28b44.png",
+    "static/media/last.png": "/quranbuilt/static/media/last.e2a9968d081721520e04.png",
+    "static/media/read11.jpg": "/quranbuilt/static/media/read11.ee318324ffd1829c5b3e.jpg",
+    "static/media/united-states.png": "/quranbuilt/static/media/united-states.4d9d990626a3df96a265.png",
+    "static/media/welcome-removebg-preview-removebg-preview.png": "/quranbuilt/static/media/welcome-removebg-preview-removebg-preview.a4d8ebfde5911e106a23.png",
+    "static/media/q2.png": "/quranbuilt/static/media/q2.1f525c683c7567fe9c86.png",
+    "static/media/read12.avif": "/quranbuilt/static/media/read12.3a4712a05d6f64014581.avif",
+    "index.html": "/quranbuilt/index.html",
+    "main.30544f60.css.map": "/quranbuilt/static/css/main.30544f60.css.map",
+    "main.ab9edd20.js.map": "/quranbuilt/static/js/main.ab9edd20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30544f60.css",
+    "static/js/main.ab9edd20.js"
+  ]
+}
